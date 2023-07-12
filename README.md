@@ -4,8 +4,12 @@ In this project, I will build a classifier that can predict how a user feels (po
 In this notebook, we'll:
 
 Explore the Yelp review dataset
+
 Preprocess and vectorize our text data for NLP
+
 Train a sentiment analysis classifier with logistic regression
+
 Explore and improve our model
+
 Train a model with word embeddings
 
